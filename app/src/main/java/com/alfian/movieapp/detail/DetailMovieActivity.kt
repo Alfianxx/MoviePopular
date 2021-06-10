@@ -23,8 +23,8 @@ class DetailMovieActivity : AppCompatActivity() {
 
         setSupportActionBar(binding.toolbar)
 
-        val detailMovie = intent.getParcelableExtra<Movie>(EXTRA_DATA)
-        showDetailMovie(detailMovie)
+        val movieDetail = intent.getParcelableExtra<Movie>(EXTRA_DATA)
+        showDetailMovie(movieDetail)
     }
 
     private fun showDetailMovie(detailMovie: Movie?) {
