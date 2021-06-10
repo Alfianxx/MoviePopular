@@ -1,4 +1,4 @@
-package com.alfian.movieapp.favorite
+package com.alfian.movieapp2.favorite
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -7,7 +7,7 @@ import android.view.View
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.alfian.movieapp.core.ui.MovieAdapter
 import com.alfian.movieapp.detail.DetailMovieActivity
-import com.alfian.movieapp.favorite.databinding.ActivityFavoriteBinding
+import com.alfian.movieapp2.favorite.databinding.ActivityFavoriteBinding
 import org.koin.android.viewmodel.ext.android.viewModel
 import org.koin.core.context.loadKoinModules
 

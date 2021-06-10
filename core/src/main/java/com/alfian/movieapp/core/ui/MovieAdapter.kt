@@ -6,8 +6,8 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.alfian.movieapp.core.Constants.IMG_URL
 import com.alfian.movieapp.core.R
-import com.alfian.movieapp.core.databinding.ItemListMovieBinding
 import com.alfian.movieapp.core.domain.model.Movie
+import com.alfian.movieapp.core.databinding.ItemListMovieBinding
 import com.bumptech.glide.Glide
 import java.util.ArrayList
 

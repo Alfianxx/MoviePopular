@@ -1,4 +1,4 @@
-package com.alfian.movieapp.favorite
+package com.alfian.movieapp2.favorite
 
 import org.junit.Test
 
