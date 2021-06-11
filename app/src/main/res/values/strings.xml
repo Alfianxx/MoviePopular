@@ -23,4 +23,5 @@
 
     <string name="rating_movie">Rating</string>
     <string name="popularity_movie">Popularity</string>
+    <string name="logo_movie">Logo Movie</string>
 </resources>

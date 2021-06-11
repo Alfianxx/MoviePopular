@@ -1,4 +1,4 @@
-package com.alfian.movieapp2.favorite
+package com.alfian.movieapp.favorite
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.asLiveData
